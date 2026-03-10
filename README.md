@@ -35,7 +35,6 @@
     alt="Most Used Languages"
   />
 </picture> --> 
-![Github Stats](https://greptile-stats.vercel.app/api/widget/rifatbroh/stats)
 
 </div>
 
